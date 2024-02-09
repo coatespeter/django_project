@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-nwg*iip90a+00!@vux6tke*k+(yv6p%58yit5a9-owhbeq(+r5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-nielmc-django-project-0kylrta3cs.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['8000-nielmc-django-project-0kylrta3cs.us2.codeanyapp.com', 'localhost']
 
 
 # Application definition
