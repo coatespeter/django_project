@@ -37,7 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'hello_world', # Add this line to the list of installed apps
+    'hello_world', 
+    'about',
+    # Add this line to the list of installed apps
 ]
 
 MIDDLEWARE = [
